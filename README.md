@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi desenvolvido com base no video da RocketSeat: https://www.youtube.com/watch?v=ngVU74daJ8Y&list=WL&index=6&t=0s
 
 ## Available Scripts
 
